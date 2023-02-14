@@ -1,3 +1,3 @@
 # nuxt-stackblitz
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-starter-fytwnk)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/nuxt-stackblitz)
